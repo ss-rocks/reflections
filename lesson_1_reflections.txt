@@ -1,0 +1,34 @@
+Ques -How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Ans - It gave me back the full section by section comparsion of the file1 and file2,where it  found a change.
+So.i was able to find out the difference seeing the output.
+
+Ques- How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+Ans - Because i will be able to see the effect of each piece of code which i have written in 
+the newer version and how it n integration works with the base code on integration.It will
+give me a basic idea how the code is chaging and also help me in finding out the directin in which my mind works.
+
+Ques - What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+Ans - Pros of using git are we can save whenever we like ad also when we have signicant difference and thus
+reduce the size of memory used and also it will help in carefuly working n the project.And the con is i think 
+if at sme point we forget to save the work cause we are in hurry the entire work is gine.
+
+Ques - 	Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+Ans- Frankly , i don;t know how the git works properly so i think iam unable to answer the question for now.
+ 
+Ques - How can you use the commands git log and git diff to view the history of files?
+Ans - Ihave noidea about this.
+
+Ques - How might using version control make you more confident to make changes that
+could break something?
+Ans - We have that confidence because of the fact that we always revert back to the older version of the file ast any point.
+
+Ques - Now that you have your workspace set up, what do you want to try using Git for?
+Ans - For version controling ofcourse.
+
+Ques - How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Ans - I think i can understand why and under what infulence of thoghts that i knew on that particular time have made take a decision and 
+can lear from that also i can see whe nthe last change was  made.
