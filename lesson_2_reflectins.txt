@@ -1,0 +1,6 @@
+Ques - What happens when you initialize a repository? Why do you need to do it?
+Ans - When we intialize a a repository a metdata file named .git appears in the 
+repository.We need to do it to use version control otherwise we wont be able to make commits and all 
+to the same file
+Ques - How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans - I have no idea about this.
